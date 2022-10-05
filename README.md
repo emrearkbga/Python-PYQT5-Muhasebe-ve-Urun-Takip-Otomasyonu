@@ -7,3 +7,5 @@ Daha iyi kavranması ve üzerinde pratik yapılabilmesi için bir çok kod bloğ
 
 * Programı kullanmaya başlamadan önce program içerisinde yer alan kütüphaneleri import etmeniz ve bir interpreter seçmeniz gerekmektedir.
 * Program ilk çalıştığında bulunan path içerisine UrunStok ve Muhasebe adından iki adet veri tabanı oluşturacaktır.
+* UI dizayn sayfalarını çalıştırabilmek için QT-Designer programını kullanabilirsiniz.
+* UiPage.py programı ile designer üzerinde yaptığınız değişiklikleri python diline çevirebilirsiniz.
