@@ -1,5 +1,6 @@
 # Python-PYQT5-Muhasebe-ve-Urun-Takip-Otomasyonu
-Python PYQT5 ile yazılmış, sipariş ve gider takibi yapabileceğiniz, verilerinizi sqlite ile veritabanında tutabileceğiniz bir otomasyon programı.
+Python PYQT ve SQL kullanılarak yazılmış örnek bir otomasyon projesi.
+Sipariş ve gider takibi yapabileceğiniz, verilerinizi sqlite ile veritabanında tutabileceğiniz bir otomasyon programı.
 İhtiyaca göre alanlar değiştirilebilir ve kişisel ihtiyaçlarınıza göre kullanabilirsiniz.
 Python ile yazılım öğrenmeye yeni başlayanlar ve ilgi duyanlar için kodlar bloklar halinde yazılmış, açıklama ve yorum satırları eklenmiştir.
 Daha iyi kavranması ve üzerinde pratik yapılabilmesi için bir çok kod bloğu oluşturulmuş, ayrı fonksiyonlara benzer işlevler yaptırılmıştır.
